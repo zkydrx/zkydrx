@@ -1,12 +1,10 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zkydrx&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zkydrx&show_icons=true&theme=highcontrast)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkydrx)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zkydrx&repo=mypractices)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
